@@ -30,8 +30,7 @@ const Footer = () => {
               <Image src="/assets/logo.svg" width={230} height={48} alt="" />
             </Link>
             <p className="text-border max-w-[270px]">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi
-              ut libero pariatur voluptatum porro.
+            Empowering Your Business with Innovative, Affordable IT Solutions. We hope to work with you soon.
             </p>
           </div>
           {/* contact */}
@@ -40,15 +39,18 @@ const Footer = () => {
             <ul className="flex flex-col gap-6">
               <li className="flex items-center gap-4">
                 <RiMapPin2Fill className="text-accent text-xl" />
-                <p>1250 Brickstone Ave, US</p>
+                <p>IT Boffins
+Unit 20 Tanners Drive
+Milton Keynes
+MK14 5BN</p>
               </li>
               <li className="flex items-center gap-4">
                 <RiPhoneFill className="text-accent text-xl" />
-                <p>+1 (555) 000-0000</p>
+                <p>01908 410917</p>
               </li>
               <li className="flex items-center gap-4">
                 <RiMailFill className="text-accent text-xl" />
-                <p>email@urbanbuild.com</p>
+                <p>hello@itboffins.com</p>
               </li>
             </ul>
           </div>
@@ -56,8 +58,7 @@ const Footer = () => {
           <div className="flex-1 text-border">
             <h4 className="h4 text-white mb-10">Newsletter</h4>
             <p className="mb-9">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut
-              animi architecto repudiandae aliquid iusto itaque!
+            Stay Connected: Subscribe for Smart IT Insights & Exclusive Updates.
             </p>
             {/* input */}
             <div className="relative max-w-[370px]">
@@ -76,7 +77,7 @@ const Footer = () => {
       {/* copyright */}
       <div className="container mx-auto xl:px-0 py-12 border-t border-border/10 flex flex-col gap-6 xl:flex-row items-center justify-between">
         <p className="text-border">
-          Copyright &copy; 2025 UrbanBuild. All rights reserved.
+          Copyright &copy; 2025 ITBoffins. All rights reserved.
         </p>
         <Socials
           containerStyles="flex gap-6 text-white"

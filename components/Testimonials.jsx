@@ -22,9 +22,8 @@ const Testimonials = () => {
             <Pretitle text="Testimonials" />
             <h2 className="h2 mb-6">Built On Trust, Proven By Results</h2>
             <p className="mb-10 max-w-[420px]">
-              From homes to commercial spaces, our clients share their
-              experiences of working with us. See how we've helped them bring
-              their dreams to live with expert craftsmanship.
+            Your success is our mission. We take pride in forging long-term partnerships that foster innovation, 
+            growth, and a competitive edge—especially for those who are just starting out.
             </p>
             <Button text="Work with us" />
           </motion.div>

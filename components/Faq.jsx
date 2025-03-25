@@ -5,28 +5,28 @@ import { fadeIn } from "@/variants";
 
 const faqItemsData = [
   {
-    title: "How long does a construction project usually take?",
-    description: "Timelines vary based on project size and complexity.",
+    title: "How long does a website take to complete?",
+    description: "With modern technology and AI support we can create an E-commerce shop in a week.",
   },
   {
-    title: "Do I need permits for my project?",
-    description: "Timelines vary based on project size and complexity.",
+    title: "What is the average price of an E-commerce shop?",
+    description: "Depending on size and the support you require anywhere from £300-£3000.",
   },
   {
-    title: "What materials do you use?",
-    description: "Timelines vary based on project size and complexity.",
+    title: "How we will create your site?",
+    description: "This depends on your budget. £300 is using Wordpress, higher value we will use Next.js.",
   },
   {
-    title: "Can I make changes after construction starts?",
-    description: "Timelines vary based on project size and complexity.",
+    title: "Can I manage my shop myself?",
+    description: "We will be mor than help to show you how to update your stocks and values yourself giving you independence.",
   },
   {
-    title: "How much will my construction project cost?",
-    description: "Timelines vary based on project size and complexity.",
+    title: "What can AI do for me?",
+    description: "Anything from automate email responses to upselling, controlling stock levels, analyzing trends and even do your taxes for you.",
   },
   {
-    title: "How do you ensure quality and safety on-site?",
-    description: "Timelines vary based on project size and complexity.",
+    title: "How do you ensure quality and safety on the site?",
+    description: "We will host your site on Digital Ocean which is a huge safe platform used by many large corporations.",
   },
 ];
 

@@ -22,12 +22,12 @@ const About = () => {
               {/* pretitle */}
               <Pretitle text="About us" />
               <h2 className="h2 mb-6">
-                Focused On Excellence In Every Project
+              Innovative IT Services for Enterprises and Small Businesses Alike
               </h2>
               <p className="mb-11">
-                Our unweavering commitment to excellence drives every project we
-                undertake. From concept to completion, we meticulously craft
-                solutions that embody quality, precision and innovation.
+              At our core, we’re technology experts and trusted advisors. We understand that every business, regardless of size, 
+              requires reliable IT support. That’s why we blend deep technical expertise with an unwavering commitment to affordability-especially for small businesses. 
+              We’re here to simplify technology, so you can focus on growing your business.
               </p>
               <div className="w-max flex flex-col text-right mb-10">
                 <Image

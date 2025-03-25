@@ -7,20 +7,20 @@ import { RiArrowRightUpLine, RiCheckboxCircleFill } from "react-icons/ri";
 const workData = [
   {
     img: "/assets/img/work/restoration.jpg",
-    name: "restoration",
-    description: "Your short description",
-    href: "",
+    name: "Ship My Car",
+    description: "Cutting edge web development and design, one of a kind solution",
+    href: "https://www.shipmycar.co.uk/",
   },
   {
     img: "/assets/img/work/construction.jpg",
-    name: "construction",
-    description: "Your short description",
-    href: "",
+    name: "EV Styling",
+    description: "Simple, professional electric vehicle e-commerce",
+    href: "https://evstyling.co.uk/",
   },
   {
     img: "/assets/img/work/renovation.jpg",
-    name: "renovation",
-    description: "Your short description",
+    name: "BW Pet Treats Shop",
+    description: "Simple and easy to manage shop for customer with limited web devekpment knowledge",
     href: "",
   },
   {

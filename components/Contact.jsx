@@ -23,8 +23,7 @@ const Contact = () => {
                 Contact Us
               </h4>
               <p className="mb-9">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi
-                delectus harum sint et nisi cupiditate?
+              Custom IT Services Tailored to Your Business—Request a Quote!
               </p>
               {/* contact items */}
               <div className="flex flex-col gap-[40px] mb-16">
@@ -39,7 +38,7 @@ const Contact = () => {
                     </h5>
                     <p className="mb-4">Our friendly team is here to help.</p>
                     <p className="font-semibold text-primary">
-                      hi@urbanbuild.com
+                    hello@itboffins.com
                     </p>
                   </div>
                 </div>
@@ -54,7 +53,10 @@ const Contact = () => {
                     </h5>
                     <p className="mb-4">Come and say hello at our office.</p>
                     <p className="font-semibold text-primary">
-                      1250 Brickstone Ave, Dallas, TX 75201, USA
+                    IT Boffins
+Unit 20 Tanners Drive
+Milton Keynes
+MK14 5BN
                     </p>
                   </div>
                 </div>
@@ -67,9 +69,9 @@ const Contact = () => {
                     <h5 className="text-[22px] font-semibold font-primary leading-none mb-2">
                       Phone
                     </h5>
-                    <p className="mb-4">Mon-Fri from 8am to 5pm.</p>
+                    <p className="mb-4">Mon-Fri from 930am to 5pm.</p>
                     <p className="font-semibold text-primary">
-                      +1 (555) 000-0000
+                    01908 410917
                     </p>
                   </div>
                 </div>
@@ -83,9 +85,7 @@ const Contact = () => {
             <div className="flex-1">
               <h2 className="h2 mb-3">Request A Quote</h2>
               <p className="mb-9">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic
-                debitis aliquid error deleniti quia voluptas odit temporibus
-                quos repellat corporis?
+              Ready to Boost Your Business? Request Your Quote Today!
               </p>
               <Form />
             </div>

@@ -17,8 +17,7 @@ const Hero = () => {
             viewport={{ once: false, amount: 0.8 }}
             className="h1 text-white mb-4"
           >
-            <span className="text-accent">Building</span> robust lasting
-            solutions
+            <span className="text-accent">artificial it</span> and web development
           </motion.h1>
           <motion.p
             variants={fadeIn("up", 0.4)}
@@ -27,9 +26,9 @@ const Hero = () => {
             viewport={{ once: false, amount: 0.8 }}
             className="mb-9"
           >
-            From concept to completion, we ensure every details is optimized for
-            strength and endurance, creating solutions that inspire confidence
-            and stand firm for years.
+            Our approach is simple: every business deserves cutting‐edge IT solutions that are both reliable and affordable. 
+            Whether you’re a large enterprise or a small start-up, our expert team is dedicated to delivering proactive IT support, 
+            strategic consulting, and robust cybersecurity tailored to your unique needs.
           </motion.p>
           {/* btn */}
           <motion.div

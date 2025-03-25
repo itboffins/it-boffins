@@ -14,18 +14,18 @@ import Pretitle from "./Pretitle";
 
 const serviceData = [
   {
-    name: "construction",
+    name: "IT & Infrastructure",
     icon: <PiWallFill />,
-    title: "Construction Services",
+    title: "Services",
     description:
-      "We build with precision and innovation, ensuring that every structure is strong, reliable, and built to last. From foundations to finishing touches, our expertise transforms ideas into reality.",
+      "Our comprehensive managed services ensure smooth day-to-day IT operations. We deliver reliable IT infrastructure solutions tailored to your business needs.",
     serviceList: [
-      "Residential Builds",
-      "Structural Design",
-      "Site Prep",
-      "Concrete Work",
-      "Framing & Roofing",
-      "Interior Finish",
+      "Proactive Monitoring",
+      "Rapid Support",
+      "Network Management",
+      "System Maintenance",
+      "Performance Optimization",
+      "Reliable Infrastructure",
     ],
     thumbs: [
       { url: "/assets/img/services/thumb-1.jpg" },
@@ -33,18 +33,18 @@ const serviceData = [
     ],
   },
   {
-    name: "renovation",
+    name: "Cloud, Web & Virtualization",
     icon: <PiPaintRollerFill />,
-    title: "Renovation Services",
+    title: "Solutions",
     description:
-      "Revitalizing spaces with modern designs and high-quality craftsmanship. Whether upgrading a home or remodeling an office, we bring fresh life to every project.",
+      "We provide scalable and flexible cloud hosting, virtualization, and data backup services. Optimize IT resources, reduce capital expenditure, and quickly adapt to evolving market demands.",
     serviceList: [
-      "Kitchen Remodel",
-      "Basement Finish",
-      "Flooring",
-      "Energy Upgrades",
-      "Carpentry",
-      "Painting",
+      "Responsive Design",
+      "Virtual Environments",
+      "Cloud Hosting",
+      "Secure Backups",
+      "Resource Efficiency",
+      "Remote Accessibility",
     ],
     thumbs: [
       { url: "/assets/img/services/thumb-3.jpg" },
@@ -52,18 +52,18 @@ const serviceData = [
     ],
   },
   {
-    name: "restoration",
+    name: "AI & Automation",
     icon: <PiWrenchFill />,
-    title: "Restoration Services",
+    title: "Solutions",
     description:
-      "Bringing damaged or aging structures back to life. We specialize in restoring historical landmarks, fire-damaged buildings, and water-damaged properties with meticulous care.",
+      "Our AI-driven solutions harness machine learning and advanced analytics to streamline operations, enhance decision-making, and unlock new growth opportunities.",
     serviceList: [
-      "Historic Restore",
-      "Water Damage",
-      "Fire Repair",
+      "Machine Learning",
+      "Predictive Analytics",
+      "Process Efficiency",
       "Structural Fix",
-      "Mold Removal",
-      "Roof Restore",
+      "Data Insights",
+      "Smart Integrations",
     ],
     thumbs: [
       { url: "/assets/img/services/thumb-4.jpg" },
@@ -71,18 +71,18 @@ const serviceData = [
     ],
   },
   {
-    name: "consulting",
+    name: "Cybersecurity & GDPR",
     icon: <PiUserGearFill />,
-    title: "Consulting Services",
+    title: "Services",
     description:
-      "Providing expert guidance for construction and renovation projects. From planning and budgeting to compliance and sustainability, our consulting service ensure project success.",
+      "We offer multi-layered security solutions, threat detection, and compliance management to safeguard your business against evolving cyber threats.",
     serviceList: [
-      "Project Plans",
-      "Costing",
-      "Site Management",
-      "Permits",
-      "Sustainability",
-      "Safety",
+      "Threat Detection",
+      "Data Encryption",
+      "Compliance Management",
+      "Vulnerability Assessments",
+      "Risk Mitigation",
+      "Incident Response",
     ],
     thumbs: [
       { url: "/assets/img/services/thumb-1.jpg" },
@@ -112,10 +112,9 @@ const Services = () => {
           className="text-center max-w-[540px] mx-auto mb-20"
         >
           <Pretitle text="Our Services" center />
-          <h2 className="h2 mb-3">Solutions We Provide</h2>
+          <h2 className="h2 mb-3">Professional and Inclusive</h2>
           <p className="mb-11 max-w-[480px] mx-auto">
-            Offering tailored construction solutions, from planning to
-            completion, with a focus on quality and innovation.
+          Affordable, expert IT support isn’t just a service-it’s a promise. We believe every business, no matter how modest, should have access to world-class technology.
           </p>
         </motion.div>
 
