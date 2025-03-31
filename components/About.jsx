@@ -50,13 +50,13 @@ const About = () => {
             viewport={{ once: false, amount: 0.2 }}
             className="flex-1 xl:flex xl:justify-center"
           >
-            <div className="xl:w-[444px] xl:h-[493px] relative">
+            <div className="xl:w-[413px] xl:h-[493px] relative">
               {/* bg */}
-              <div className="hidden xl:flex w-[444px] h-[493px] bg-accent absolute -top-4 -left-4 -z-10"></div>
+              <div className="hidden xl:flex w-[444px] h-[450px] bg-accent absolute -top-4 -left-4 -z-10"></div>
               <Image
                 src={"/assets/img/about/img.jpg"}
-                width={444}
-                height={492}
+                width={413}
+                height={493}
                 alt=""
               />
             </div>

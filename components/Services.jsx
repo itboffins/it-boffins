@@ -33,7 +33,7 @@ const serviceData = [
     ],
   },
   {
-    name: "Cloud, Web & Virtualization",
+    name: "Cloud, Web & Virtualisation",
     icon: <PiPaintRollerFill />,
     title: "Solutions",
     description:
@@ -85,8 +85,8 @@ const serviceData = [
       "Incident Response",
     ],
     thumbs: [
-      { url: "/assets/img/services/thumb-1.jpg" },
-      { url: "/assets/img/services/thumb-3.jpg" },
+      { url: "/assets/img/services/thumb-7.jpg" },
+      { url: "/assets/img/services/thumb-8.jpg" },
     ],
   },
 ];
