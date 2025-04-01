@@ -66,7 +66,7 @@ const serviceData = [
       "Smart Integrations",
     ],
     thumbs: [
-      { url: "/assets/img/services/thumb-4.jpg" },
+      { url: "/assets/img/services/thumb-9.jpg" },
       { url: "/assets/img/services/thumb-5.jpg" },
     ],
   },
