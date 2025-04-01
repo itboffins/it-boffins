@@ -20,14 +20,14 @@ const workData = [
   {
     img: "/assets/img/work/renovation.jpg",
     name: "BW Pet Treats Shop",
-    description: "Simple and easy to manage shop for customer with limited web devekpment knowledge",
-    href: "",
+    description: "Simple and easy to manage shop",
+    href: "https://shop.bwpetservices.com/",
   },
   {
     img: "/assets/img/work/consulting.jpg",
-    name: "consulting",
-    description: "Your short description",
-    href: "",
+    name: "Yamasaki",
+    description: "Home of the 50cc motorcycle",
+    href: "https://www.yamasaki.co.uk/about-us/",
   },
 ];
 
