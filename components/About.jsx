@@ -36,7 +36,7 @@ const About = () => {
                   height={38}
                   alt=""
                 />
-                <p>Nikolai Roachy</p>
+                <p>CEO Nikolai Roachy</p>
               </div>
               {/* btn */}
               <Button text="Contact us" />

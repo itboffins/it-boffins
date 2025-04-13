@@ -33,7 +33,7 @@ const serviceData = [
     ],
   },
   {
-    name: "Cloud, Web & Virtualisation",
+    name: "Virtualisation",
     icon: <PiPaintRollerFill />,
     title: "Solutions",
     description:
@@ -147,7 +147,7 @@ const Services = () => {
                     >
                       <div className="text-4xl">{item.icon}</div>
                     </div>
-                    <div className="uppercase font-primary text-base font-semibold tracking-[.6px] w-[100px] ml-16">
+                    <div className="uppercase font-primary text-base font-semibold tracking-[.6px] w-[150px] ml-16">
                       {item.name}
                     </div>
                   </TabsTrigger>

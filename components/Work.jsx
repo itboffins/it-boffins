@@ -8,25 +8,25 @@ const workData = [
   {
     img: "/assets/img/work/smc.jpg",
     name: "Ship My Car",
-    description: "Cutting edge web development and design, one of a kind solution",
+    description: "One of a kind solution",
     href: "https://www.shipmycar.co.uk/",
   },
   {
     img: "/assets/img/work/evs.jpg",
     name: "EV Styling",
-    description: "Simple, professional electric vehicle e-commerce",
+    description: "E-commerce",
     href: "https://evstyling.co.uk/",
   },
   {
     img: "/assets/img/work/bwps.jpg",
     name: "BW Pet Treats Shop",
-    description: "Simple and easy to manage shop",
+    description: "WordPress E-commerce",
     href: "https://shop.bwpetservices.com/",
   },
   {
     img: "/assets/img/work/yam.jpg",
     name: "Yamasaki",
-    description: "Home of the 50cc motorcycle",
+    description: "Home of 50cc motorcycle",
     href: "https://www.yamasaki.co.uk/about-us/",
   },
 ];
@@ -58,13 +58,13 @@ const Work = () => {
         initial="hidden"
         whileInView="show"
         viewport={{ once: false, amount: 0.2 }}
-        className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4"
+        className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4"
       >
         {workData.map((item, index) => {
           return (
             <div
               key={index}
-              className="w-full h-[492px] flex-1 relative overflow-hidden group flex justify-center"
+              className="w-full h-[320px] flex-1 relative overflow-hidden group flex justify-center"
             >
               <Image
                 src={item.img}
