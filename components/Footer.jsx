@@ -27,7 +27,7 @@ const Footer = () => {
           {/* logo & text */}
           <div className="flex-1">
             <Link href="/" className="flex mb-6">
-              <Image src="/assets/logo.svg" width={230} height={48} alt="" />
+              <Image src="/assets/logo.png" width={230} height={48} alt="" />
             </Link>
             <p className="text-border max-w-[270px]">
             Empowering Your Business with Innovative, Affordable IT Solutions. We hope to work with you soon.
