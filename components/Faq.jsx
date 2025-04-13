@@ -18,7 +18,7 @@ const faqItemsData = [
   },
   {
     title: "Can I manage my shop myself?",
-    description: "We will be mor than help to show you how to update your stocks and values yourself giving you independence.",
+    description: "We will be more than help to show you how to update your stocks and values yourself giving you independence.",
   },
   {
     title: "What can AI do for me?",
@@ -26,7 +26,7 @@ const faqItemsData = [
   },
   {
     title: "How do you ensure quality and safety on the site?",
-    description: "We will host your site on Digital Ocean which is a huge safe platform used by many large corporations.",
+    description: "We will host your site on Digital Ocean which is a huge safe database used by many large corporations.",
   },
 ];
 

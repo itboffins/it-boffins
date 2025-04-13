@@ -31,12 +31,12 @@ const About = () => {
               </p>
               <div className="w-max flex flex-col text-right mb-10">
                 <Image
-                  src="/assets/img/about/signature.svg"
+                  src="/assets/img/about/signature.png"
                   width={154}
                   height={38}
                   alt=""
                 />
-                <p>Company CEO</p>
+                <p>Nikolai Roachy</p>
               </div>
               {/* btn */}
               <Button text="Contact us" />
