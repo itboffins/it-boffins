@@ -166,11 +166,11 @@ const Services = () => {
                     className="flex flex-col md:flex-row gap-[30px]"
                   >
                     {/* images */}
-                    <div className="flex md:flex-col gap-5 xl:gap-[30px]">
+                    <div className="flex md:flex-col gap-8 xl:gap-[15px]">
                       {item.thumbs.map((thumb, index) => (
                         <div
                           key={index}
-                          className="relative w-[140px] xl:w-[200px] h-[140px] xl:h-[200px]"
+                          className="relative w-[150px] md:w-[175px] xl:w-[200px] h-[160px] md:h-[180px] xl:h-[210px]"
                         >
                           <Image src={thumb.url} fill alt="" />
                         </div>
